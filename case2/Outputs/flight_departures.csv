@@ -1,0 +1,187 @@
+Flight,Departure Time,Arrival Time,Destination Code,Airline,Destination Full
+LH 8324,00:05,02:05,HEL,Lufthansa,Helsinki
+D8* 9744,05:25,08:15,GNB,Norwegian Air Sweden,Grenoble
+FR 1608,05:45,08:25,TSF,Ryanair / Operated by Malta Air on behalf of Ryanair,Venice
+FR 4691,06:00,10:15,SKG,Ryanair / Operated by Malta Air on behalf of Ryanair,Thessaloniki
+SK 1805,06:00,09:40,PMI,SAS / Operated by SAS Connect on behalf of SAS,Palma de Mallorca
+FR 1608,05:45,08:25,TSF,Ryanair / Operated by Malta Air on behalf of Ryanair,Venice
+SK 7935,05:55,08:10,SZG,SAS,Salzburg
+FR 4691,06:00,10:15,SKG,Ryanair / Operated by Malta Air on behalf of Ryanair,Thessaloniki
+SK 1805,06:00,09:40,PMI,SAS / Operated by SAS Connect on behalf of SAS,Palma de Mallorca
+SK 1415,06:00,07:15,CPH,SAS / Operated by SAS Connect on behalf of SAS,Copenhagen
+FR 316,06:00,09:15,OPO,Ryanair / Operated by Malta Air on behalf of Ryanair,Porto
+SK 481,06:00,07:00,OSL,SAS,Oslo
+EW 4644,06:05,08:55,TRN,Eurowings / Operated by Eurowings Europe on behalf of Eurowings,Turin
+AF 1463,06:10,09:00,CDG,Air France,Paris
+SK 1583,06:10,10:35,AGP,SAS,Malaga
+LX 1255,06:10,08:35,ZRH,Swiss,Zurich
+IB 826,06:15,10:20,MAD,Iberia,Madrid
+AY 826,06:20,08:15,HEL,Finnair,Helsinki
+SK 1827,06:20,09:20,NCE,SAS,Nice
+FR 7603,06:20,08:40,BUD,Ryanair / Operated by Malta Air on behalf of Ryanair,Budapest
+KL 1214,06:30,08:40,AMS,KLM,Amsterdam
+SN 2298,06:30,08:45,BRU,Brussels Airlines,Brussels
+LH 809,06:35,08:50,FRA,Lufthansa,Frankfurt
+OS 318,06:35,08:50,VIE,Austrian,Vienna
+ET 714,06:40,07:45,OSL,Ethiopian Airlines,Oslo
+SK 7977,06:50,09:05,SZG,SAS,Salzburg
+SK 1417,07:00,08:15,CPH,SAS,Copenhagen
+D8* 4321,07:00,10:00,NCE,Norwegian Air Sweden,Nice
+6B 251,07:15,12:20,LPA,TUIfly Nordic,Las Palmas
+BA 771,07:15,09:15,LHR,British Airways,London
+SK 1853,07:20,11:20,ALC,SAS / Operated by SAS Connect on behalf of SAS,Alicante
+SK 605,07:20,09:45,ZRH,SAS / Operated by SAS Connect on behalf of SAS,Zurich
+D8* 4281,07:30,09:25,HEL,Norwegian Air Sweden,Helsinki
+DY 898,07:30,11:00,FAO,Norwegian / Operated by Norwegian Air Sweden on behalf of Norwegian,Faro
+SK 1004,07:40,09:00,LLA,SAS / Operated by CityJet on behalf of SAS,Lulea
+SK 2943,07:40,11:10,FAO,SAS,Faro
+D8* 4221,07:40,12:00,AGP,Norwegian Air Sweden,Malaga
+SK 2151,07:45,09:00,GOT,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Gothenburg
+LH 2421,07:45,10:00,MUC,Lufthansa,Munich
+AY 802,07:55,09:50,HEL,Finnair,Helsinki
+SK 66,07:55,08:55,OSD,SAS / Operated by SAS Connect on behalf of SAS,Ostersund
+SK 2098,07:55,13:05,TFS,SAS / Operated by SAS Connect on behalf of SAS,Tenerife
+BT 102,08:00,10:05,RIX,Air Baltic,Riga
+FR 4616,08:00,09:20,GDN,Ryanair / Operated by Buzz on behalf of Ryanair,Gdansk
+FR 7678,08:05,09:40,POZ,Ryanair / Operated by Buzz on behalf of Ryanair,Poznan
+W6 1732,08:05,09:25,GDN,Wizz Air,Gdansk
+D8* 9718,08:10,10:40,VRN,Norwegian Air Sweden,Verona
+SK 14,08:10,09:30,LLA,SAS,Lulea
+QR 170,08:10,16:25,DOH,Qatar Airways,Doha
+SK 708,08:15,10:30,HEL,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Helsinki
+D8* 4241,08:20,13:15,LPA,Norwegian Air Sweden,Las Palmas
+SK 843,08:25,09:25,OSL,SAS,Oslo
+SK 401,08:30,09:40,CPH,SAS / Operated by SAS Connect on behalf of SAS,Copenhagen
+LX 1239,08:35,11:20,GVA,Swiss,Geneva
+SK 1040,08:50,10:30,KRN,SAS / Operated by SAS Connect on behalf of SAS,Kiruna
+SK 7881,08:50,11:05,SZG,SAS,Salzburg
+SK 105,08:50,10:20,MMX,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Malmo
+SK 557,08:50,11:00,AMS,SAS / Operated by CityJet on behalf of SAS,Amsterdam
+SK 7905,09:00,11:20,INN,SAS,Innsbruck
+SK 77,09:05,09:50,VBY,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Visby
+SK 403,09:05,10:20,CPH,SAS,Copenhagen
+SK 2505,09:10,14:35,AGA,SAS / Operated by SAS Connect on behalf of SAS,Agadir
+DY 805,09:10,10:10,OSL,Norwegian / Operated by Norwegian Air Sweden on behalf of Norwegian,Oslo
+FR 4648,09:20,11:40,FKB,Ryanair / Operated by Malta Air on behalf of Ryanair,Karlsruhe/Baden-Baden
+SK 7243,09:20,11:40,INN,SAS,Innsbruck
+SK 7201,09:20,11:35,SZG,SAS,Salzburg
+SK 689,09:25,12:05,LIN,SAS / Operated by SAS Connect on behalf of SAS,Milan
+SK 2615,09:25,12:10,GVA,SAS,Geneva
+SK 7515,09:25,11:45,INN,SAS,Innsbruck
+SK 7943,09:45,12:05,INN,SAS,Innsbruck
+KL 1216,09:45,12:00,AMS,KLM / Operated by KLM Cityhopper on behalf of KLM,Amsterdam
+D8* 5701,09:45,14:35,LPA,Norwegian Air Sweden,Las Palmas
+LH 801,09:50,12:05,FRA,Lufthansa,Frankfurt
+SK 1819,09:55,15:05,LPA,SAS / Operated by SAS Connect on behalf of SAS,Las Palmas
+JU 381,09:55,12:25,BEG,Air Serbia / Operated by GetJet Airlines on behalf of Air Serbia,Belgrade
+SK 1419,09:55,11:05,CPH,SAS / Operated by SAS Connect on behalf of SAS,Copenhagen
+FR 7618,10:15,14:05,PMI,Ryanair,Palma de Mallorca
+SK 79,10:25,11:10,VBY,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Visby
+FR 3077,10:30,14:05,BCN,Ryanair,Barcelona
+LO 454,10:35,12:15,WAW,LOT Polish Airlines,Warsaw
+VY 1266,10:35,14:15,BCN,Vueling,Barcelona
+SK 903,10:45,13:35,EWR,SAS,Newark
+D8* 4455,10:45,12:20,LGW,Norwegian Air Sweden,London
+SK 1421,10:50,12:00,CPH,SAS,Copenhagen
+D8* 4269,11:10,16:25,TFS,Norwegian Air Sweden,Tenerife
+D8* 4527,11:10,16:20,RAK,Norwegian Air Sweden,Marrakech
+SK 531,11:15,12:55,LHR,SAS / Operated by SAS Connect on behalf of SAS,London
+PC 1280,11:20,16:55,SAW,Pegasus,Istanbul
+SK 165,11:25,12:40,GOT,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Gothenburg
+BA 777,11:25,13:20,LHR,British Airways,London
+KL 1218,11:30,13:40,AMS,KLM,Amsterdam
+TK 1794,11:35,17:20,ISL,Turkish Airlines,Istanbul
+LX 1235,11:35,14:20,GVA,Swiss,Geneva
+SK 2277,11:40,12:50,ESKS,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Salen
+D8* 5351,11:50,15:50,ALC,Norwegian Air Sweden / Operated by Norwegian on behalf of Norwegian Air Sweden,Alicante
+SK 1774,11:50,13:50,TLL,SAS,Tallinn
+SK 8,11:55,13:15,LLA,SAS / Operated by CityJet on behalf of SAS,Lulea
+PC 1280,11:20,16:55,SAW,Pegasus,Istanbul
+SK 2277,11:40,12:50,ESKS,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Salen
+D8* 5351,11:50,15:50,ALC,Norwegian Air Sweden / Operated by Norwegian on behalf of Norwegian Air Sweden,Alicante
+FR 4692,12:10,13:40,STN,Ryanair,London
+FR 4640,12:15,14:20,RIX,Ryanair / Operated by Malta Air on behalf of Ryanair,Riga
+LH 2415,12:20,14:35,MUC,Lufthansa,Munich
+SK 7673,12:30,17:40,LPA,SAS,Las Palmas
+SK 7857,12:30,14:50,INN,SAS,Innsbruck
+D8* 8637,12:40,16:20,BCN,Norwegian Air Sweden / Operated by Norwegian on behalf of Norwegian Air Sweden,Barcelona
+FI 307,12:45,15:15,KEF,Icelandair,Reykjavik
+AF 1263,12:45,15:30,CDG,Air France,Paris
+6B 431,12:55,19:15,HRG,TUIfly Nordic,Hurghada
+TG 961,13:00,05:45,BKK,Thai Airways International,Bangkok
+SK 2728,13:00,14:55,TKU,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Turku
+LX 1249,13:10,15:40,ZRH,Swiss,Zurich
+SK 81,13:15,14:00,VBY,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Visby
+AY 808,13:15,15:15,HEL,Finnair,Helsinki
+EW 5064,13:25,15:50,INN,Eurowings / Operated by Eurowings Europe on behalf of Eurowings,Innsbruck
+KL 1220,13:30,15:35,AMS,KLM,Amsterdam
+LX 1247,13:40,16:10,ZRH,Swiss,Zurich
+FR 4626,13:50,15:50,KRK,Ryanair / Operated by Malta Air on behalf of Ryanair,Krakow
+SK 6071,13:55,16:40,LIN,SAS,Milan
+SK 2949,13:55,18:20,SVQ,SAS / Operated by SAS Connect on behalf of SAS,Sevilla
+SK 7937,13:55,16:10,SZG,SAS,Salzburg
+FR 4686,14:00,18:35,AGP,Ryanair / Operated by Malta Air on behalf of Ryanair,Malaga
+SK 489,14:10,15:30,OSL,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Oslo
+AY 810,14:15,16:15,HEL,Finnair,Helsinki
+SK 1423,14:20,15:30,CPH,SAS / Operated by CityJet on behalf of SAS,Copenhagen
+TP 781,14:20,17:45,LIS,TAP Air Portugal,Lisbon
+LH 803,14:25,16:40,FRA,Lufthansa,Frankfurt
+TK 1790,14:25,20:10,ISL,Turkish Airlines,Istanbul
+EK 158,14:30,00:05,DXB,Emirates,Dubai
+IB 824,14:40,18:45,MAD,Iberia,Madrid
+SK 527,14:45,16:25,LHR,SAS / Operated by SAS Connect on behalf of SAS,London
+LH 2417,15:00,17:15,MUC,Lufthansa,Munich
+SK 2665,15:00,17:15,SZG,SAS,Salzburg
+PC 5020,15:00,20:55,AYT,Pegasus,Antalya
+SK 7885,15:10,17:55,TRN,SAS,Turin
+SK 12,15:15,16:35,LLA,SAS,Lulea
+SK 1817,15:15,19:40,AGP,SAS / Operated by SAS Connect on behalf of SAS,Malaga
+SK 710,15:15,17:25,HEL,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Helsinki
+PC 1282,15:20,20:55,SAW,Pegasus,Istanbul
+FR 3656,15:30,18:15,BGY,Ryanair / Operated by Malta Air on behalf of Ryanair,Milan
+SK 1803,15:35,20:00,AGP,SAS / Operated by SAS Connect on behalf of SAS,Malaga
+OS 314,15:40,17:55,VIE,Austrian,Vienna
+LX 1251,15:55,18:20,ZRH,Swiss,Zurich
+SK 409,16:00,17:15,CPH,SAS / Operated by SAS Link on behalf of SAS,Copenhagen
+SK 2679,16:00,17:35,BER,SAS / Operated by CityJet on behalf of SAS,Berlin
+SK 611,16:00,18:45,GVA,SAS,Geneva
+SK 163,16:20,17:35,GOT,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Gothenburg
+SK 1605,16:20,18:45,ZRH,SAS,Zurich
+SK 1492,16:25,18:20,TOS,SAS,Tromso
+SK 2617,16:25,19:10,GVA,SAS / Operated by SAS Connect on behalf of SAS,Geneva
+LX 1233,16:30,19:15,GVA,Swiss,Geneva
+SK 2689,16:40,19:25,MXP,SAS,Milan
+FR 4622,16:50,18:55,TLL,Ryanair / Operated by Malta Air on behalf of Ryanair,Tallinn
+SK 7891,17:10,19:55,TRN,SAS,Turin
+SK 615,17:15,20:00,GVA,SAS / Operated by SAS Connect on behalf of SAS,Geneva
+LH 807,17:15,19:30,FRA,Lufthansa,Frankfurt
+D8* 4329,17:25,20:10,LYS,Norwegian Air Sweden,Lyon
+SK 7203,17:30,20:15,TRN,SAS,Turin
+KL 1224,17:30,19:35,AMS,KLM,Amsterdam
+SK 2659,17:50,20:00,MUC,SAS / Operated by SAS Connect on behalf of SAS,Munich
+FR 4771,17:55,20:05,CGN,Ryanair / Operated by Malta Air on behalf of Ryanair,Cologne
+AY 816,17:55,19:50,HEL,Finnair,Helsinki
+TK 1796,18:00,23:40,ISL,Turkish Airlines,Istanbul
+AF 1063,18:05,20:55,CDG,Air France,Paris
+BA 781,18:05,19:50,LHR,British Airways,London
+D8* 4473,18:05,20:15,SZG,Norwegian Air Sweden,Salzburg
+SK 2026,18:10,19:15,UME,SAS / Operated by CityJet on behalf of SAS,Umea
+SK 1429,18:20,19:35,CPH,SAS / Operated by SAS Connect on behalf of SAS,Copenhagen
+CA 912,18:20,09:25,PEK,Air China,Beijing
+SK 85,18:30,19:20,VBY,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Visby
+LH 2419,18:35,20:50,MUC,Lufthansa,Munich
+FR 4718,18:40,20:10,STN,Ryanair / Operated by Malta Air on behalf of Ryanair,London
+SK 20,18:40,20:00,LLA,SAS,Lulea
+LH 805,19:00,21:15,FRA,Lufthansa,Frankfurt
+SK 26,19:15,20:20,UME,SAS,Umea
+6B 729,19:20,13:10,HKT,TUIfly Nordic,Phuket
+FR 756,19:20,21:35,VIE,Ryanair / Operated by Lauda Europe on behalf of Ryanair,Vienna
+SK 1409,19:25,20:35,CPH,SAS / Operated by SAS Connect on behalf of SAS,Copenhagen
+FR 6098,19:55,21:15,GDN,Ryanair / Operated by Malta Air on behalf of Ryanair,Gdansk
+OS 2628,20:00,22:25,INN,Austrian,Innsbruck
+LO 458,20:00,21:40,WAW,LOT Polish Airlines,Warsaw
+FR 4047,20:45,23:15,VNO,Ryanair / Operated by Buzz on behalf of Ryanair,Vilnius
+AY 820,20:50,23:05,HEL,Finnair,Helsinki
+ET 715,21:20,06:45,ADD,Ethiopian Airlines,Addis Ababa
+FR 4605,21:30,23:55,KUN,Ryanair / Operated by Buzz on behalf of Ryanair,Kaunas
+SK 1772,21:40,23:40,TLL,SAS,Tallinn

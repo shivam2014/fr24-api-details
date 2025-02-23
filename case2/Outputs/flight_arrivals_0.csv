@@ -1,0 +1,12 @@
+Flight,Departure Time,Arrival Time,Origin Code,Airline,Origin Full
+AY 825,23:50,23:50,HEL,Finnair,Helsinki
+SK 1428,23:00,00:10,CPH,SAS,Copenhagen
+FR 9796,19:10,00:15,RAK,Ryanair / Operated by Malta Air on behalf of Ryanair,Marrakech
+FR 4687,20:00,00:15,AGP,Ryanair / Operated by Malta Air on behalf of Ryanair,Malaga
+SK 534,21:05,00:30,LHR,SAS / Operated by SAS Connect on behalf of SAS,London
+6B 648,15:15,00:40,SID,TUIfly Nordic,Sal
+FR 8418,21:40,00:55,TIA,Ryanair / Operated by Malta Air on behalf of Ryanair,Tirana
+D8* 8862,03:30,04:45,CPH,Norwegian Air Sweden,Copenhagen
+CAO 3157,02:00,04:50,CTU,Air China Cargo,Chengdu
+ET 714,23:40,05:40,ADD,Ethiopian Airlines,Addis Ababa
+CAO 3143,03:00,05:50,CTU,Air China Cargo,Chengdu

@@ -1,0 +1,200 @@
+Flight,Departure Time,Arrival Time,Origin Code,Airline,Origin Full,Status
+AY825,23:50,23:50,HEL,Finnair,Helsinki,Common
+FR4687,20:00,00:15,AGP,Ryanair / Operated by Malta Air on behalf of Ryanair,Malaga,Common
+FR8418,21:40,00:55,TIA,Ryanair / Operated by Malta Air on behalf of Ryanair,Tirana,Common
+D8862,03:30,04:45,CPH,Norwegian Air Sweden,Copenhagen,Common
+ET714,23:40,05:40,ADD,Ethiopian Airlines,Addis Ababa,Common
+QR169,01:35,06:30,DOH,Qatar Airways,Doha,Common
+TG960,00:05,06:45,BKK,Thai Airways International,Bangkok,Common
+SK1783,07:00,07:00,TLL,SAS,Tallinn,Common
+AY801,07:00,07:10,HEL,Finnair,Helsinki,Common
+SK904,17:30,07:20,EWR,SAS,Newark,Common
+BT101,07:10,07:20,RIX,Air Baltic,Riga,Common
+FR4617,05:55,07:25,GDN,Ryanair / Operated by Buzz on behalf of Ryanair,Gdansk,Common
+W61731,06:00,07:30,GDN,Wizz Air,Gdansk,Common
+FR7679,06:00,07:35,POZ,Ryanair / Operated by Buzz on behalf of Ryanair,Poznan,Common
+SK27,06:50,08:00,UME,SAS / Operated by SAS Connect on behalf of SAS,Umea,Common
+SK402,07:00,08:15,CPH,SAS,Copenhagen,Common
+SK1,07:00,08:25,LLA,SAS,Lulea,Common
+SK400,07:20,08:30,CPH,SAS,Copenhagen,Common
+DY804,07:30,08:40,OSL,Norwegian / Operated by Norwegian Air Sweden on behalf of Norwegian,Oslo,Common
+FR4649,06:20,08:45,FKB,Ryanair / Operated by Malta Air on behalf of Ryanair,Karlsruhe/Baden-Baden,Common
+SK1489,06:45,08:45,TOS,SAS,Tromso,Common
+SK86,08:00,08:50,VBY,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Visby,Common
+KL1215,06:55,09:00,AMS,KLM / Operated by KLM Cityhopper on behalf of KLM,Amsterdam,Common
+LH800,06:55,09:05,FRA,Lufthansa,Frankfurt,Common
+JU380,06:30,09:10,BEG,Air Serbia / Operated by GetJet Airlines on behalf of Air Serbia,Belgrade,Common
+SK1416,08:00,09:10,CPH,SAS / Operated by SAS Connect on behalf of SAS,Copenhagen,Common
+FR7619,05:50,09:40,PMI,Ryanair,Palma de Mallorca,Common
+VY1265,06:05,09:50,BCN,Vueling,Barcelona,Common
+FR3076,06:10,09:55,BCN,Ryanair,Barcelona,Common
+LX1234,07:05,09:55,GVA,Swiss,Geneva,Common
+LO453,08:05,09:55,WAW,LOT Polish Airlines,Warsaw,Common
+D8282,10:05,10:05,HEL,Norwegian Air Sweden,Helsinki,Common
+SK1418,09:00,10:10,CPH,SAS,Copenhagen,Common
+PC1279,08:30,10:15,SAW,Pegasus,Istanbul,Common
+D8032,08:55,10:15,LLA,Norwegian Air Sweden,Lulea,Common
+D8006,09:15,10:20,UME,Norwegian Air Sweden,Umea,Common
+BA776,06:55,10:25,LHR,British Airways,London,Common
+KL1217,08:35,10:35,AMS,KLM,Amsterdam,Common
+SK73,09:35,10:35,OSD,SAS / Operated by SAS Connect on behalf of SAS,Ostersund,Common
+SK142,09:30,10:40,GOT,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Gothenburg,Common
+SK5,09:40,11:00,LLA,SAS / Operated by CityJet on behalf of SAS,Lulea,Common
+D8350,07:00,11:05,ALC,Norwegian Air Sweden / Operated by Norwegian on behalf of Norwegian Air Sweden,Alicante,Common
+SK864,10:05,11:05,OSL,SAS,Oslo,Common
+SK78,10:20,11:10,VBY,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Visby,Common
+SK709,11:00,11:20,HEL,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Helsinki,Common
+FR7604,09:05,11:30,BUD,Ryanair / Operated by Malta Air on behalf of Ryanair,Budapest,Common
+SK15,10:10,11:30,LLA,SAS,Lulea,Common
+LH2414,09:20,11:35,MUC,Lufthansa,Munich,Common
+SK404,10:25,11:35,CPH,SAS / Operated by SAS Connect on behalf of SAS,Copenhagen,Common
+FR1609,09:00,11:40,TSF,Ryanair / Operated by Malta Air on behalf of Ryanair,Venice,Common
+FI306,07:35,11:45,KEF,Icelandair,Reykjavik,Common
+AF1262,09:15,11:50,CDG,Air France,Paris,Common
+D8636,08:15,12:00,BCN,Norwegian Air Sweden / Operated by Norwegian on behalf of Norwegian Air Sweden,Barcelona,Common
+LX1248,09:50,12:20,ZRH,Swiss,Zurich,Common
+SK106,10:50,12:20,MMX,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Malmo,Common
+AY807,12:30,12:30,HEL,Finnair,Helsinki,Common
+SK80,11:40,12:30,VBY,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Visby,Common
+EW4645,09:45,12:35,TRN,Eurowings / Operated by Eurowings Europe on behalf of Eurowings,Turin,Common
+EK157,08:20,12:40,DXB,Emirates,Dubai,Common
+KL1219,10:40,12:45,AMS,KLM,Amsterdam,Common
+LX1246,10:25,12:50,ZRH,Swiss,Zurich,Common
+SK1041,11:10,12:50,KRN,SAS / Operated by SAS Connect on behalf of SAS,Kiruna,Common
+SK162,11:50,12:50,GOT,SAS / Operated by SAS Connect on behalf of SAS,Gothenburg,Common
+SK606,10:30,13:00,ZRH,SAS / Operated by SAS Connect on behalf of SAS,Zurich,Common
+SK1420,11:50,13:00,CPH,SAS / Operated by SAS Connect on behalf of SAS,Copenhagen,Common
+FR4690,10:40,13:10,SKG,Ryanair / Operated by Malta Air on behalf of Ryanair,Thessaloniki,Common
+SK1828,10:10,13:15,NCE,SAS,Nice,Common
+TP780,08:05,13:30,LIS,TAP Air Portugal,Lisbon,Common
+TK1789,11:45,13:30,ISL,Turkish Airlines,Istanbul,Common
+AY809,13:30,13:30,HEL,Finnair,Helsinki,Common
+D8322,10:40,13:35,NCE,Norwegian Air Sweden,Nice,Common
+LH802,11:30,13:40,FRA,Lufthansa,Frankfurt,Common
+SK558,11:40,13:40,AMS,SAS / Operated by CityJet on behalf of SAS,Amsterdam,Common
+IB823,10:05,14:00,MAD,Iberia,Madrid,Common
+PC1281,12:25,14:10,SAW,Pegasus,Istanbul,Common
+PC5019,12:05,14:15,AYT,Pegasus,Antalya,Common
+LH2416,12:00,14:15,MUC,Lufthansa,Munich,Common
+SK1806,10:30,14:20,PMI,SAS / Operated by SAS Connect on behalf of SAS,Palma de Mallorca,Common
+SK406,13:10,14:20,CPH,SAS,Copenhagen,Common
+SK2112,13:15,14:20,MMX,SAS / Operated by SAS Connect on behalf of SAS,Malmo,Common
+SK1773,14:30,14:30,TLL,SAS,Tallinn,Common
+FR317,09:40,14:40,OPO,Ryanair / Operated by Malta Air on behalf of Ryanair,Porto,Common
+SK7906,12:20,14:45,INN,SAS,Innsbruck,Common
+SK166,13:35,14:45,GOT,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Gothenburg,Common
+OS313,12:40,14:55,VIE,Austrian,Vienna,Common
+FR4641,14:45,15:00,RIX,Ryanair / Operated by Malta Air on behalf of Ryanair,Riga,Common
+LX1250,12:40,15:05,ZRH,Swiss,Zurich,Common
+SK414,14:00,15:10,CPH,SAS / Operated by SAS Link on behalf of SAS,Copenhagen,Common
+SK9,13:55,15:15,LLA,SAS / Operated by CityJet on behalf of SAS,Lulea,Common
+SK2727,15:25,15:20,TKU,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Turku,Common
+SK82,14:30,15:20,VBY,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Visby,Common
+LX1232,12:40,15:30,GVA,Swiss,Geneva,Common
+SK7944,13:05,15:30,INN,SAS,Innsbruck,Common
+LH806,13:20,15:30,FRA,Lufthansa,Frankfurt,Common
+SK690,12:55,15:40,LIN,SAS / Operated by SAS Connect on behalf of SAS,Milan,Common
+SK2616,13:00,15:40,GVA,SAS,Geneva,Common
+SK1584,11:25,15:45,AGP,SAS,Malaga,Common
+SK484,15:00,16:00,OSL,SAS / Operated by SAS Connect on behalf of SAS,Oslo,Common
+SK1854,12:10,16:15,ALC,SAS / Operated by SAS Connect on behalf of SAS,Alicante,Common
+D8456,13:00,16:25,LGW,Norwegian Air Sweden,London,Common
+CA911,14:15,16:30,PEK,Air China,Beijing,Common
+SK9042,16:30,16:30,HEL,SAS,Helsinki,Common
+KL1223,14:35,16:35,AMS,KLM,Amsterdam,Common
+6B356,09:55,16:55,HKT,TUIfly Nordic,Phuket,Common
+BA780,13:20,16:55,LHR,British Airways,London,Common
+DY899,11:45,17:05,FAO,Norwegian / Operated by Norwegian Air Sweden on behalf of Norwegian,Faro,Common
+D8222,12:45,17:05,AGP,Norwegian Air Sweden,Malaga,Common
+AF1062,14:30,17:10,CDG,Air France,Paris,Common
+AY815,17:05,17:10,HEL,Finnair,Helsinki,Common
+FR4772,15:15,17:20,CGN,Ryanair / Operated by Malta Air on behalf of Ryanair,Cologne,Common
+SK486,16:05,17:20,OSL,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Oslo,Common
+SK1424,16:10,17:20,CPH,SAS / Operated by CityJet on behalf of SAS,Copenhagen,Common
+SK2944,12:00,17:25,FAO,SAS,Faro,Common
+SK532,13:55,17:30,LHR,SAS / Operated by SAS Connect on behalf of SAS,London,Common
+LH2418,15:35,17:50,MUC,Lufthansa,Munich,Common
+LH804,16:05,18:15,FRA,Lufthansa,Frankfurt,Common
+FR4627,16:15,18:15,KRK,Ryanair / Operated by Malta Air on behalf of Ryanair,Krakow,Common
+SK711,18:00,18:20,HEL,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Helsinki,Common
+SK13,17:15,18:35,LLA,SAS,Lulea,Common
+FR755,16:25,18:45,VIE,Ryanair / Operated by Lauda Europe on behalf of Ryanair,Vienna,Common
+SK1410,17:35,18:45,CPH,SAS / Operated by SAS Connect on behalf of SAS,Copenhagen,Common
+OS1421,17:55,19:15,BLL,Austrian,Billund,Common
+SK164,18:05,19:15,GOT,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Gothenburg,Common
+EW5065,16:50,19:20,INN,Eurowings / Operated by Eurowings Europe on behalf of Eurowings,Innsbruck,Common
+LO457,17:30,19:20,WAW,LOT Polish Airlines,Warsaw,Common
+SK7938,17:10,19:25,SZG,SAS,Salzburg,Common
+FR4623,19:20,19:30,TLL,Ryanair / Operated by Malta Air on behalf of Ryanair,Tallinn,Common
+SK1412,18:30,19:40,CPH,SAS,Copenhagen,Common
+SK2680,18:15,19:55,BER,SAS / Operated by CityJet on behalf of SAS,Berlin,Common
+ET715,18:45,20:05,OSL,Ethiopian Airlines,Oslo,Common
+FR4048,19:40,20:10,VNO,Ryanair / Operated by Buzz on behalf of Ryanair,Vilnius,Common
+SK6072,17:30,20:15,LIN,SAS,Milan,Common
+SK2099,13:30,20:20,TFS,SAS / Operated by SAS Connect on behalf of SAS,Tenerife,Common
+AY819,20:10,20:25,HEL,Finnair,Helsinki,Common
+BA786,17:00,20:35,LHR,British Airways,London,Common
+SK2506,15:25,20:40,AGA,SAS / Operated by SAS Connect on behalf of SAS,Agadir,Common
+SK1820,14:00,20:50,LPA,SAS / Operated by SAS Connect on behalf of SAS,Las Palmas,Common
+FR4606,20:35,20:55,KUN,Ryanair / Operated by Buzz on behalf of Ryanair,Kaunas,Common
+SK2027,19:55,20:55,UME,SAS / Operated by CityJet on behalf of SAS,Umea,Common
+D8242,14:05,21:00,LPA,Norwegian Air Sweden,Las Palmas,Common
+SK528,17:30,21:00,LHR,SAS / Operated by SAS Connect on behalf of SAS,London,Common
+SK1491,19:00,21:00,TOS,SAS,Tromso,Common
+FR3655,18:40,21:25,BGY,Ryanair / Operated by Malta Air on behalf of Ryanair,Milan,Common
+SK1430,20:15,21:25,CPH,SAS / Operated by SAS Connect on behalf of SAS,Copenhagen,Common
+SK1606,19:25,21:55,ZRH,SAS,Zurich,Common
+6B252,20:50,22:05,CPH,TUIfly Nordic,Copenhagen,Common
+D8528,17:10,22:10,RAK,Norwegian Air Sweden,Marrakech,Common
+SK612,19:35,22:15,GVA,SAS,Geneva,Common
+D8700,15:25,22:20,LPA,Norwegian Air Sweden,Las Palmas,Common
+LX1238,19:45,22:35,GVA,Swiss,Geneva,Common
+SK2618,20:10,22:50,GVA,SAS / Operated by SAS Connect on behalf of SAS,Geneva,Common
+KL1227,20:55,22:55,AMS,KLM,Amsterdam,Common
+SK2690,20:15,23:00,MXP,SAS,Milan,Common
+SK2660,20:50,23:05,MUC,SAS / Operated by SAS Connect on behalf of SAS,Munich,Common
+FR6099,21:40,23:10,GDN,Ryanair / Operated by Malta Air on behalf of Ryanair,Gdansk,Common
+D8474,21:15,23:20,SZG,Norwegian Air Sweden,Salzburg,Common
+LX1254,20:55,23:25,ZRH,Swiss,Zurich,Common
+LH2420,21:10,23:25,MUC,Lufthansa,Munich,Common
+FR4687,19:10,23:30,AGP,Ryanair / Operated by Malta Air on behalf of Ryanair,Malaga,Common
+SK2950,19:15,23:30,SVQ,SAS / Operated by SAS Connect on behalf of SAS,Sevilla,Common
+AF1462,21:00,23:40,CDG,Air France,Paris,Common
+LH808,21:30,23:40,FRA,Lufthansa,Frankfurt,Common
+D8611,21:00,23:45,TRN,Norwegian Air Sweden,Turin,Common
+AY825,23:50,23:50,HEL,Finnair,Helsinki,Common
+IB825,20:00,23:55,MAD,Iberia,Madrid,Common
+D8330,21:10,23:55,LYS,Norwegian Air Sweden,Lyon,Common
+FR4719,20:35,23:55,STN,Ryanair / Operated by Malta Air on behalf of Ryanair,London,Common
+D8878,22:55,00:10,CPH,Norwegian Air Sweden,Copenhagen,Common
+SK1428,23:00,00:10,CPH,SAS,Copenhagen,Only in flight_arrivals
+FR9796,19:10,00:15,RAK,Ryanair / Operated by Malta Air on behalf of Ryanair,Marrakech,Only in flight_arrivals
+SK534,21:05,00:30,LHR,SAS / Operated by SAS Connect on behalf of SAS,London,Only in flight_arrivals
+6B648,15:15,00:40,SID,TUIfly Nordic,Sal,Only in flight_arrivals
+CAO3157,02:00,04:50,CTU,Air China Cargo,Chengdu,Only in flight_arrivals
+CAO3143,03:00,05:50,CTU,Air China Cargo,Chengdu,Only in flight_arrivals
+TK1793,08:55,10:40,ISL,Turkish Airlines,Istanbul,Only in flight_arrivals
+W64151,12:10,14:55,BEG,Wizz Air,Belgrade,Only in flight_arrivals
+TK1795,15:15,17:05,ISL,Turkish Airlines,Istanbul,Only in flight_arrivals
+SK2278,17:25,18:30,ESKS,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Salen,Only in flight_arrivals
+DK2565,N/A,N/A,HKT,N/A,N/A,Only in all_arrivals_df
+CA3157,N/A,N/A,CTU,N/A,N/A,Only in all_arrivals_df
+CAO3105,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df
+D8860,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df
+CAT9417,N/A,N/A,AAR,N/A,N/A,Only in all_arrivals_df
+SK7515,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df
+QY6789,N/A,N/A,LTN,N/A,N/A,Only in all_arrivals_df
+R6951,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df
+FR4693,N/A,N/A,STN,N/A,N/A,Only in all_arrivals_df
+PE969,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df
+D8866,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df
+DK1743,N/A,N/A,LPA,N/A,N/A,Only in all_arrivals_df
+CAT9423,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df
+D8876,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df
+SK9044,N/A,N/A,HEL,N/A,N/A,Only in all_arrivals_df
+NH221,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df
+SK2287,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df
+CA3155,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df
+D8270,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df
+SK1818,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df
+SK1804,N/A,N/A,N/A,N/A,N/A,Only in all_arrivals_df

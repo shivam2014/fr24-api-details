@@ -1,0 +1,10 @@
+Flight,Departure Time,Arrival Time,Destination Code,Airline,Destination Full
+LH 8324,00:05,02:05,HEL,Lufthansa,Helsinki
+D8* 9744,05:25,08:15,GNB,Norwegian Air Sweden,Grenoble
+FR 1608,05:45,08:25,TSF,Ryanair / Operated by Malta Air on behalf of Ryanair,Venice
+SK 7935,05:55,08:10,SZG,SAS,Salzburg
+SK 1415,06:00,07:15,CPH,SAS / Operated by SAS Connect on behalf of SAS,Copenhagen
+SK 481,06:00,07:00,OSL,SAS,Oslo
+FR 4691,06:00,10:15,SKG,Ryanair / Operated by Malta Air on behalf of Ryanair,Thessaloniki
+SK 1805,06:00,09:40,PMI,SAS / Operated by SAS Connect on behalf of SAS,Palma de Mallorca
+FR 316,06:00,09:15,OPO,Ryanair / Operated by Malta Air on behalf of Ryanair,Porto

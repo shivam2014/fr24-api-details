@@ -1,0 +1,25 @@
+Flight,Departure Time,Arrival Time,Destination Code,Airline,Destination Full
+TK 1796,18:00,23:40,ISL,Turkish Airlines,Istanbul
+D8* 4473,18:05,20:15,SZG,Norwegian Air Sweden,Salzburg
+AF 1063,18:05,20:55,CDG,Air France,Paris
+BA 781,18:05,19:50,LHR,British Airways,London
+SK 2026,18:10,19:15,UME,SAS / Operated by CityJet on behalf of SAS,Umea
+SK 1429,18:20,19:35,CPH,SAS / Operated by SAS Connect on behalf of SAS,Copenhagen
+CA 912,18:20,09:25,PEK,Air China,Beijing
+SK 85,18:30,19:20,VBY,SAS / Operated by Braathens Regional Airlines on behalf of SAS,Visby
+LH 2419,18:35,20:50,MUC,Lufthansa,Munich
+FR 4718,18:40,20:10,STN,Ryanair / Operated by Malta Air on behalf of Ryanair,London
+SK 20,18:40,20:00,LLA,SAS,Lulea
+LH 805,19:00,21:15,FRA,Lufthansa,Frankfurt
+SK 26,19:15,20:20,UME,SAS,Umea
+6B 729,19:20,13:10,HKT,TUIfly Nordic,Phuket
+FR 756,19:20,21:35,VIE,Ryanair / Operated by Lauda Europe on behalf of Ryanair,Vienna
+SK 1409,19:25,20:35,CPH,SAS / Operated by SAS Connect on behalf of SAS,Copenhagen
+FR 6098,19:55,21:15,GDN,Ryanair / Operated by Malta Air on behalf of Ryanair,Gdansk
+OS 2628,20:00,22:25,INN,Austrian,Innsbruck
+LO 458,20:00,21:40,WAW,LOT Polish Airlines,Warsaw
+FR 4047,20:45,23:15,VNO,Ryanair / Operated by Buzz on behalf of Ryanair,Vilnius
+AY 820,20:50,23:05,HEL,Finnair,Helsinki
+ET 715,21:20,06:45,ADD,Ethiopian Airlines,Addis Ababa
+FR 4605,21:30,23:55,KUN,Ryanair / Operated by Buzz on behalf of Ryanair,Kaunas
+SK 1772,21:40,23:40,TLL,SAS,Tallinn
